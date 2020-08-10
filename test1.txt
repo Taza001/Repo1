@@ -1,3 +1,5 @@
 CHANGE 1
 Hello this my second change
 What's up
+This is my third commit changes
+I don't know just practising git
